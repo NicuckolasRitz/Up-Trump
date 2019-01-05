@@ -6,8 +6,8 @@ chrome.extension.sendMessage({}, function(response) {
 
 			var count = 0;
 
-			while (document.getElementsByClassName("down").length > 0){
-				var element = document.getElementsByClassName("down")[0];
+			while (document.getElementsByClassName("up").length > 0){
+				var element = document.getElementsByClassName("up")[0];
 				if (typeof(element) != "undefined") {
 					element.click();
 					count++;
