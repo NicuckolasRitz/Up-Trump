@@ -1,8 +1,8 @@
-Down the Donald
+Up Trump
 =================
 
-Chrome extension to auto-downvote all posts and comments on <a href='https://www.reddit.com/r/The_Donald'>/r/The_Donald<a><p>
+Chrome extension to auto-upvote all posts and comments on <a href='https://www.reddit.com/r/The_Donald'>/r/The_Donald<a><p>
 <p>Screenshots:<p>
-<img src='https://github.com/Nicolazinho/Down-the-Donald/blob/master/screenshot1.png'><p>
-<img src='https://github.com/Nicolazinho/Down-the-Donald/blob/master/screenshot2.png'><p>
-<p>A project by Nicolas Ritz
+<img src=''><p>
+<img src=''><p>
+<p>Project by Nicuckolas Reeee Ritzlaf
