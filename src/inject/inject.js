@@ -15,7 +15,7 @@ chrome.extension.sendMessage({}, function(response) {
 			}
 
 			if (count > 0) {
-				console.log(count + ' downvotes for you, my Sir!');
+				console.log(count + ' up votes for you!');
 			}
 
 		}
